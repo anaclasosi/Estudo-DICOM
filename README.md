@@ -1,7 +1,7 @@
-#Estudo_DICOM
-Este repositório contém um notebook Jupyter (Estudo_DICOM.ipynb) desenvolvido para a análise de imagens médicas no formato DICOM. O projeto foi criado para ser uma ferramenta de pesquisa, facilitando a visualização, o processamento e a inspeção de metadados de exames.
+# Estudo_DICOM
+  Este repositório contém um notebook Jupyter (Estudo_DICOM.ipynb) desenvolvido para a análise de imagens médicas no formato DICOM. O projeto foi criado para ser uma ferramenta de pesquisa, facilitando a visualização, o processamento e a inspeção de metadados de exames.
 
-##Funcionalidades
+## Funcionalidades
   O notebook oferece um conjunto de funções para trabalhar com imagens médicas, incluindo:
 1. Leitura e Conversão: Carrega arquivos DICOM e converte os dados de pixel em arrays NumPy, um formato padrão para processamento de dados em Python.
 2. Processamento de Imagem: Aplica janelamento (ajuste de contraste e brilho) para otimizar a visualização de diferentes estruturas de tecido.
